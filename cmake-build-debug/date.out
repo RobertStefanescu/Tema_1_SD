@@ -1,0 +1,1001 @@
+Introduceti numarul de teste:
+Testul 1
+Numarul de elemente:24187
+Valoarea maxima a elementelor :1612878834
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0145943 secunde.
+Sortarea Merge a durat: 0.00308636 secunde.
+Sortarea Quick a durat: 0.00078814 secunde.
+
+
+Testul 2
+Numarul de elemente:42818
+Valoarea maxima a elementelor :114890661
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.01881 secunde.
+Sortarea Merge a durat: 0.00530619 secunde.
+Sortarea Quick a durat: 0.0013544 secunde.
+
+
+Testul 3
+Numarul de elemente:79065
+Valoarea maxima a elementelor :1155861654
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0384176 secunde.
+Sortarea Merge a durat: 0.0113186 secunde.
+Sortarea Quick a durat: 0.0027251 secunde.
+
+
+Testul 4
+Numarul de elemente:64398
+Valoarea maxima a elementelor :1567981226
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0352404 secunde.
+Sortarea Merge a durat: 0.00652697 secunde.
+Sortarea Quick a durat: 0.00159088 secunde.
+
+
+Testul 5
+Numarul de elemente:98234
+Valoarea maxima a elementelor :606720920
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0327854 secunde.
+Sortarea Merge a durat: 0.00964513 secunde.
+Sortarea Quick a durat: 0.00259391 secunde.
+
+
+Testul 6
+Numarul de elemente:25746
+Valoarea maxima a elementelor :852329671
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00817528 secunde.
+Sortarea Merge a durat: 0.00227403 secunde.
+Sortarea Quick a durat: 0.000586669 secunde.
+
+
+Testul 7
+Numarul de elemente:18772
+Valoarea maxima a elementelor :268166196
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.005946 secunde.
+Sortarea Merge a durat: 0.00162039 secunde.
+Sortarea Quick a durat: 0.000403586 secunde.
+
+
+Testul 8
+Numarul de elemente:31130
+Valoarea maxima a elementelor :1688640816
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0148209 secunde.
+Sortarea Merge a durat: 0.00372708 secunde.
+Sortarea Quick a durat: 0.00100226 secunde.
+
+
+Testul 9
+Numarul de elemente:23756
+Valoarea maxima a elementelor :153525168
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00846083 secunde.
+Sortarea Merge a durat: 0.00225032 secunde.
+Sortarea Quick a durat: 0.000573377 secunde.
+
+
+Testul 10
+Numarul de elemente:19203
+Valoarea maxima a elementelor :2104656005
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00955611 secunde.
+Sortarea Merge a durat: 0.00175792 secunde.
+Sortarea Quick a durat: 0.000432791 secunde.
+
+
+Testul 11
+Numarul de elemente:86178
+Valoarea maxima a elementelor :1603816826
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0374849 secunde.
+Sortarea Merge a durat: 0.00842084 secunde.
+Sortarea Quick a durat: 0.0021455 secunde.
+
+
+Testul 12
+Numarul de elemente:57393
+Valoarea maxima a elementelor :860436449
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0182969 secunde.
+Sortarea Merge a durat: 0.00542251 secunde.
+Sortarea Quick a durat: 0.00135872 secunde.
+
+
+Testul 13
+Numarul de elemente:77137
+Valoarea maxima a elementelor :1433497099
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0330224 secunde.
+Sortarea Merge a durat: 0.00741733 secunde.
+Sortarea Quick a durat: 0.0018699 secunde.
+
+
+Testul 14
+Numarul de elemente:27361
+Valoarea maxima a elementelor :467236945
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00875228 secunde.
+Sortarea Merge a durat: 0.00242331 secunde.
+Sortarea Quick a durat: 0.000614977 secunde.
+
+
+Testul 15
+Numarul de elemente:5756
+Valoarea maxima a elementelor :339190878
+Sortarea Bubble a durat: 0.110721 secunde.
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00191705 secunde.
+Sortarea Merge a durat: 0.000475745 secunde.
+Sortarea Quick a durat: 0.000119824 secunde.
+
+
+Testul 16
+Numarul de elemente:83839
+Valoarea maxima a elementelor :1513658623
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0359721 secunde.
+Sortarea Merge a durat: 0.00837936 secunde.
+Sortarea Quick a durat: 0.00227658 secunde.
+
+
+Testul 17
+Numarul de elemente:8930
+Valoarea maxima a elementelor :1301581876
+Sortarea Bubble a durat: 0.289573 secunde.
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00347782 secunde.
+Sortarea Merge a durat: 0.000947946 secunde.
+Sortarea Quick a durat: 0.000199923 secunde.
+
+
+Testul 18
+Numarul de elemente:22533
+Valoarea maxima a elementelor :146829842
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00818755 secunde.
+Sortarea Merge a durat: 0.00234903 secunde.
+Sortarea Quick a durat: 0.000544312 secunde.
+
+
+Testul 19
+Numarul de elemente:90186
+Valoarea maxima a elementelor :342841996
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.032838 secunde.
+Sortarea Merge a durat: 0.0102486 secunde.
+Sortarea Quick a durat: 0.00308587 secunde.
+
+
+Testul 20
+Numarul de elemente:89527
+Valoarea maxima a elementelor :1131475493
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0364244 secunde.
+Sortarea Merge a durat: 0.01016 secunde.
+Sortarea Quick a durat: 0.00263126 secunde.
+
+
+Testul 21
+Numarul de elemente:12151
+Valoarea maxima a elementelor :1329224497
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0052646 secunde.
+Sortarea Merge a durat: 0.00123339 secunde.
+Sortarea Quick a durat: 0.000296609 secunde.
+
+
+Testul 22
+Numarul de elemente:67825
+Valoarea maxima a elementelor :2001152794
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0333557 secunde.
+Sortarea Merge a durat: 0.00786444 secunde.
+Sortarea Quick a durat: 0.00187649 secunde.
+
+
+Testul 23
+Numarul de elemente:91764
+Valoarea maxima a elementelor :131421661
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0332073 secunde.
+Sortarea Merge a durat: 0.0108195 secunde.
+Sortarea Quick a durat: 0.00260729 secunde.
+
+
+Testul 24
+Numarul de elemente:51211
+Valoarea maxima a elementelor :1169096549
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0208427 secunde.
+Sortarea Merge a durat: 0.00527906 secunde.
+Sortarea Quick a durat: 0.00133963 secunde.
+
+
+Testul 25
+Numarul de elemente:50011
+Valoarea maxima a elementelor :1260644279
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0197773 secunde.
+Sortarea Merge a durat: 0.00530533 secunde.
+Sortarea Quick a durat: 0.0013306 secunde.
+
+
+Testul 26
+Numarul de elemente:58715
+Valoarea maxima a elementelor :1974518390
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.025851 secunde.
+Sortarea Merge a durat: 0.00552176 secunde.
+Sortarea Quick a durat: 0.00141754 secunde.
+
+
+Testul 27
+Numarul de elemente:89927
+Valoarea maxima a elementelor :982607303
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0284041 secunde.
+Sortarea Merge a durat: 0.00874691 secunde.
+Sortarea Quick a durat: 0.00226471 secunde.
+
+
+Testul 28
+Numarul de elemente:50732
+Valoarea maxima a elementelor :2120948883
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0213048 secunde.
+Sortarea Merge a durat: 0.00472463 secunde.
+Sortarea Quick a durat: 0.00122405 secunde.
+
+
+Testul 29
+Numarul de elemente:78849
+Valoarea maxima a elementelor :166821235
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0266709 secunde.
+Sortarea Merge a durat: 0.00782871 secunde.
+Sortarea Quick a durat: 0.00193397 secunde.
+
+
+Testul 30
+Numarul de elemente:59867
+Valoarea maxima a elementelor :1998230926
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0249885 secunde.
+Sortarea Merge a durat: 0.00563653 secunde.
+Sortarea Quick a durat: 0.00140521 secunde.
+
+
+Testul 31
+Numarul de elemente:71016
+Valoarea maxima a elementelor :852515163
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0221646 secunde.
+Sortarea Merge a durat: 0.00675347 secunde.
+Sortarea Quick a durat: 0.00168517 secunde.
+
+
+Testul 32
+Numarul de elemente:12191
+Valoarea maxima a elementelor :2114509231
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0050679 secunde.
+Sortarea Merge a durat: 0.00100983 secunde.
+Sortarea Quick a durat: 0.000261479 secunde.
+
+
+Testul 33
+Numarul de elemente:4672
+Valoarea maxima a elementelor :139381127
+Sortarea Bubble a durat: 0.0710277 secunde.
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0014553 secunde.
+Sortarea Merge a durat: 0.000357507 secunde.
+Sortarea Quick a durat: 8.7789e-05 secunde.
+
+
+Testul 34
+Numarul de elemente:68034
+Valoarea maxima a elementelor :616454854
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0224197 secunde.
+Sortarea Merge a durat: 0.00856478 secunde.
+Sortarea Quick a durat: 0.00239739 secunde.
+
+
+Testul 35
+Numarul de elemente:45957
+Valoarea maxima a elementelor :1069480606
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.018462 secunde.
+Sortarea Merge a durat: 0.00465988 secunde.
+Sortarea Quick a durat: 0.00130521 secunde.
+
+
+Testul 36
+Numarul de elemente:95386
+Valoarea maxima a elementelor :2057795811
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0420846 secunde.
+Sortarea Merge a durat: 0.00932034 secunde.
+Sortarea Quick a durat: 0.00243066 secunde.
+
+
+Testul 37
+Numarul de elemente:85424
+Valoarea maxima a elementelor :1116078482
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0298986 secunde.
+Sortarea Merge a durat: 0.00826972 secunde.
+Sortarea Quick a durat: 0.00248117 secunde.
+
+
+Testul 38
+Numarul de elemente:1199
+Valoarea maxima a elementelor :1742682213
+Sortarea Bubble a durat: 0.00403902 secunde.
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00052769 secunde.
+Sortarea Merge a durat: 8.6543e-05 secunde.
+Sortarea Quick a durat: 2.0844e-05 secunde.
+
+
+Testul 39
+Numarul de elemente:5570
+Valoarea maxima a elementelor :1438432809
+Sortarea Bubble a durat: 0.105263 secunde.
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00231778 secunde.
+Sortarea Merge a durat: 0.000432649 secunde.
+Sortarea Quick a durat: 0.000109046 secunde.
+
+
+Testul 40
+Numarul de elemente:57793
+Valoarea maxima a elementelor :1215496034
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0201544 secunde.
+Sortarea Merge a durat: 0.0054914 secunde.
+Sortarea Quick a durat: 0.00137874 secunde.
+
+
+Testul 41
+Numarul de elemente:13621
+Valoarea maxima a elementelor :781417274
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00424218 secunde.
+Sortarea Merge a durat: 0.00113993 secunde.
+Sortarea Quick a durat: 0.000289478 secunde.
+
+
+Testul 42
+Numarul de elemente:60495
+Valoarea maxima a elementelor :680857284
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0188758 secunde.
+Sortarea Merge a durat: 0.00567594 secunde.
+Sortarea Quick a durat: 0.00140825 secunde.
+
+
+Testul 43
+Numarul de elemente:49490
+Valoarea maxima a elementelor :233589887
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0156081 secunde.
+Sortarea Merge a durat: 0.00457794 secunde.
+Sortarea Quick a durat: 0.0012062 secunde.
+
+
+Testul 44
+Numarul de elemente:74952
+Valoarea maxima a elementelor :764062031
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0234179 secunde.
+Sortarea Merge a durat: 0.00736592 secunde.
+Sortarea Quick a durat: 0.00181223 secunde.
+
+
+Testul 45
+Numarul de elemente:71342
+Valoarea maxima a elementelor :16045467
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0202319 secunde.
+Sortarea Merge a durat: 0.00680689 secunde.
+Sortarea Quick a durat: 0.00170772 secunde.
+
+
+Testul 46
+Numarul de elemente:49430
+Valoarea maxima a elementelor :1690184827
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0210289 secunde.
+Sortarea Merge a durat: 0.00466608 secunde.
+Sortarea Quick a durat: 0.00120451 secunde.
+
+
+Testul 47
+Numarul de elemente:88560
+Valoarea maxima a elementelor :1531977837
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0384391 secunde.
+Sortarea Merge a durat: 0.00938835 secunde.
+Sortarea Quick a durat: 0.00244422 secunde.
+
+
+Testul 48
+Numarul de elemente:19570
+Valoarea maxima a elementelor :1148216484
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00747753 secunde.
+Sortarea Merge a durat: 0.00179572 secunde.
+Sortarea Quick a durat: 0.000447514 secunde.
+
+
+Testul 49
+Numarul de elemente:49821
+Valoarea maxima a elementelor :1274508140
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0184562 secunde.
+Sortarea Merge a durat: 0.00487607 secunde.
+Sortarea Quick a durat: 0.00128528 secunde.
+
+
+Testul 50
+Numarul de elemente:78245
+Valoarea maxima a elementelor :1876820567
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0340949 secunde.
+Sortarea Merge a durat: 0.00810523 secunde.
+Sortarea Quick a durat: 0.00200975 secunde.
+
+
+Testul 51
+Numarul de elemente:95495
+Valoarea maxima a elementelor :377858363
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0307176 secunde.
+Sortarea Merge a durat: 0.00944608 secunde.
+Sortarea Quick a durat: 0.00244286 secunde.
+
+
+Testul 52
+Numarul de elemente:8811
+Valoarea maxima a elementelor :1054668292
+Sortarea Bubble a durat: 0.263822 secunde.
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00305313 secunde.
+Sortarea Merge a durat: 0.000712098 secunde.
+Sortarea Quick a durat: 0.000172944 secunde.
+
+
+Testul 53
+Numarul de elemente:53921
+Valoarea maxima a elementelor :471861685
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0169234 secunde.
+Sortarea Merge a durat: 0.00504356 secunde.
+Sortarea Quick a durat: 0.00130423 secunde.
+
+
+Testul 54
+Numarul de elemente:36328
+Valoarea maxima a elementelor :191922876
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0113339 secunde.
+Sortarea Merge a durat: 0.00328035 secunde.
+Sortarea Quick a durat: 0.000809883 secunde.
+
+
+Testul 55
+Numarul de elemente:40857
+Valoarea maxima a elementelor :468744850
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0128104 secunde.
+Sortarea Merge a durat: 0.00372638 secunde.
+Sortarea Quick a durat: 0.00095172 secunde.
+
+
+Testul 56
+Numarul de elemente:88165
+Valoarea maxima a elementelor :1044527980
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0335534 secunde.
+Sortarea Merge a durat: 0.00864862 secunde.
+Sortarea Quick a durat: 0.00219409 secunde.
+
+
+Testul 57
+Numarul de elemente:91306
+Valoarea maxima a elementelor :2013661060
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0383562 secunde.
+Sortarea Merge a durat: 0.0088769 secunde.
+Sortarea Quick a durat: 0.00234454 secunde.
+
+
+Testul 58
+Numarul de elemente:18918
+Valoarea maxima a elementelor :658910993
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00589634 secunde.
+Sortarea Merge a durat: 0.00163246 secunde.
+Sortarea Quick a durat: 0.000405108 secunde.
+
+
+Testul 59
+Numarul de elemente:54856
+Valoarea maxima a elementelor :1823702982
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0229474 secunde.
+Sortarea Merge a durat: 0.00511648 secunde.
+Sortarea Quick a durat: 0.0013052 secunde.
+
+
+Testul 60
+Numarul de elemente:39270
+Valoarea maxima a elementelor :336269047
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0122925 secunde.
+Sortarea Merge a durat: 0.00359578 secunde.
+Sortarea Quick a durat: 0.000905969 secunde.
+
+
+Testul 61
+Numarul de elemente:8467
+Valoarea maxima a elementelor :360232941
+Sortarea Bubble a durat: 0.244913 secunde.
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00264083 secunde.
+Sortarea Merge a durat: 0.000677327 secunde.
+Sortarea Quick a durat: 0.000162478 secunde.
+
+
+Testul 62
+Numarul de elemente:80226
+Valoarea maxima a elementelor :1046433450
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0278959 secunde.
+Sortarea Merge a durat: 0.00769647 secunde.
+Sortarea Quick a durat: 0.00196159 secunde.
+
+
+Testul 63
+Numarul de elemente:25105
+Valoarea maxima a elementelor :1932109022
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0106183 secunde.
+Sortarea Merge a durat: 0.0022126 secunde.
+Sortarea Quick a durat: 0.000577732 secunde.
+
+
+Testul 64
+Numarul de elemente:54348
+Valoarea maxima a elementelor :318110906
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0170168 secunde.
+Sortarea Merge a durat: 0.00562785 secunde.
+Sortarea Quick a durat: 0.00160145 secunde.
+
+
+Testul 65
+Numarul de elemente:63911
+Valoarea maxima a elementelor :593341085
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0219366 secunde.
+Sortarea Merge a durat: 0.0060547 secunde.
+Sortarea Quick a durat: 0.00148285 secunde.
+
+
+Testul 66
+Numarul de elemente:69255
+Valoarea maxima a elementelor :1901005393
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0291811 secunde.
+Sortarea Merge a durat: 0.00680173 secunde.
+Sortarea Quick a durat: 0.00162245 secunde.
+
+
+Testul 67
+Numarul de elemente:89263
+Valoarea maxima a elementelor :486862149
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0279434 secunde.
+Sortarea Merge a durat: 0.00862081 secunde.
+Sortarea Quick a durat: 0.00237506 secunde.
+
+
+Testul 68
+Numarul de elemente:52000
+Valoarea maxima a elementelor :768401944
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0162491 secunde.
+Sortarea Merge a durat: 0.00486456 secunde.
+Sortarea Quick a durat: 0.00125499 secunde.
+
+
+Testul 69
+Numarul de elemente:73854
+Valoarea maxima a elementelor :1096492400
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0256657 secunde.
+Sortarea Merge a durat: 0.00700728 secunde.
+Sortarea Quick a durat: 0.00176751 secunde.
+
+
+Testul 70
+Numarul de elemente:78273
+Valoarea maxima a elementelor :1431506731
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0329296 secunde.
+Sortarea Merge a durat: 0.00752953 secunde.
+Sortarea Quick a durat: 0.00190727 secunde.
+
+
+Testul 71
+Numarul de elemente:5535
+Valoarea maxima a elementelor :405854794
+Sortarea Bubble a durat: 0.0999602 secunde.
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00172489 secunde.
+Sortarea Merge a durat: 0.000431148 secunde.
+Sortarea Quick a durat: 0.000109308 secunde.
+
+
+Testul 72
+Numarul de elemente:82106
+Valoarea maxima a elementelor :329996303
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0256567 secunde.
+Sortarea Merge a durat: 0.00786596 secunde.
+Sortarea Quick a durat: 0.00201823 secunde.
+
+
+Testul 73
+Numarul de elemente:80373
+Valoarea maxima a elementelor :1103451695
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0301901 secunde.
+Sortarea Merge a durat: 0.00852492 secunde.
+Sortarea Quick a durat: 0.00207391 secunde.
+
+
+Testul 74
+Numarul de elemente:2924
+Valoarea maxima a elementelor :326861152
+Sortarea Bubble a durat: 0.0264641 secunde.
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.000912912 secunde.
+Sortarea Merge a durat: 0.000217031 secunde.
+Sortarea Quick a durat: 5.4093e-05 secunde.
+
+
+Testul 75
+Numarul de elemente:24545
+Valoarea maxima a elementelor :234459351
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00771789 secunde.
+Sortarea Merge a durat: 0.00214848 secunde.
+Sortarea Quick a durat: 0.00056262 secunde.
+
+
+Testul 76
+Numarul de elemente:64605
+Valoarea maxima a elementelor :2002315661
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0275634 secunde.
+Sortarea Merge a durat: 0.00625604 secunde.
+Sortarea Quick a durat: 0.00157291 secunde.
+
+
+Testul 77
+Numarul de elemente:1925
+Valoarea maxima a elementelor :1670069539
+Sortarea Bubble a durat: 0.01208 secunde.
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.000846636 secunde.
+Sortarea Merge a durat: 0.000143827 secunde.
+Sortarea Quick a durat: 3.4573e-05 secunde.
+
+
+Testul 78
+Numarul de elemente:46644
+Valoarea maxima a elementelor :166980677
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0156459 secunde.
+Sortarea Merge a durat: 0.00432807 secunde.
+Sortarea Quick a durat: 0.00111274 secunde.
+
+
+Testul 79
+Numarul de elemente:28080
+Valoarea maxima a elementelor :892374905
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00891834 secunde.
+Sortarea Merge a durat: 0.0024826 secunde.
+Sortarea Quick a durat: 0.000629707 secunde.
+
+
+Testul 80
+Numarul de elemente:77268
+Valoarea maxima a elementelor :613763747
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.024995 secunde.
+Sortarea Merge a durat: 0.00743157 secunde.
+Sortarea Quick a durat: 0.00201579 secunde.
+
+
+Testul 81
+Numarul de elemente:13541
+Valoarea maxima a elementelor :1564936883
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00572066 secunde.
+Sortarea Merge a durat: 0.00113271 secunde.
+Sortarea Quick a durat: 0.000291701 secunde.
+
+
+Testul 82
+Numarul de elemente:81667
+Valoarea maxima a elementelor :1371423953
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0290541 secunde.
+Sortarea Merge a durat: 0.00785728 secunde.
+Sortarea Quick a durat: 0.0020096 secunde.
+
+
+Testul 83
+Numarul de elemente:94651
+Valoarea maxima a elementelor :136477458
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0304183 secunde.
+Sortarea Merge a durat: 0.00922946 secunde.
+Sortarea Quick a durat: 0.00241803 secunde.
+
+
+Testul 84
+Numarul de elemente:4319
+Valoarea maxima a elementelor :1132057435
+Sortarea Bubble a durat: 0.0594797 secunde.
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00151155 secunde.
+Sortarea Merge a durat: 0.000327431 secunde.
+Sortarea Quick a durat: 7.7726e-05 secunde.
+
+
+Testul 85
+Numarul de elemente:76205
+Valoarea maxima a elementelor :167086760
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0243045 secunde.
+Sortarea Merge a durat: 0.00732016 secunde.
+Sortarea Quick a durat: 0.00184314 secunde.
+
+
+Testul 86
+Numarul de elemente:54021
+Valoarea maxima a elementelor :1526206427
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0229853 secunde.
+Sortarea Merge a durat: 0.00507612 secunde.
+Sortarea Quick a durat: 0.00141339 secunde.
+
+
+Testul 87
+Numarul de elemente:10890
+Valoarea maxima a elementelor :882910033
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00344241 secunde.
+Sortarea Merge a durat: 0.000900178 secunde.
+Sortarea Quick a durat: 0.000229407 secunde.
+
+
+Testul 88
+Numarul de elemente:29052
+Valoarea maxima a elementelor :1416099032
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0124205 secunde.
+Sortarea Merge a durat: 0.0025808 secunde.
+Sortarea Quick a durat: 0.00065191 secunde.
+
+
+Testul 89
+Numarul de elemente:80765
+Valoarea maxima a elementelor :1271292350
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0285783 secunde.
+Sortarea Merge a durat: 0.00776854 secunde.
+Sortarea Quick a durat: 0.00197902 secunde.
+
+
+Testul 90
+Numarul de elemente:8745
+Valoarea maxima a elementelor :630493110
+Sortarea Bubble a durat: 0.261533 secunde.
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00272927 secunde.
+Sortarea Merge a durat: 0.000704171 secunde.
+Sortarea Quick a durat: 0.000170121 secunde.
+
+
+Testul 91
+Numarul de elemente:67743
+Valoarea maxima a elementelor :393143192
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0211988 secunde.
+Sortarea Merge a durat: 0.00640402 secunde.
+Sortarea Quick a durat: 0.00157738 secunde.
+
+
+Testul 92
+Numarul de elemente:75075
+Valoarea maxima a elementelor :377231
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0156445 secunde.
+Sortarea Merge a durat: 0.00729814 secunde.
+Sortarea Quick a durat: 0.00202488 secunde.
+
+
+Testul 93
+Numarul de elemente:23794
+Valoarea maxima a elementelor :635551584
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00742385 secunde.
+Sortarea Merge a durat: 0.00209158 secunde.
+Sortarea Quick a durat: 0.000542663 secunde.
+
+
+Testul 94
+Numarul de elemente:78310
+Valoarea maxima a elementelor :1376679373
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0275245 secunde.
+Sortarea Merge a durat: 0.00754377 secunde.
+Sortarea Quick a durat: 0.00190687 secunde.
+
+
+Testul 95
+Numarul de elemente:37246
+Valoarea maxima a elementelor :563897478
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0116234 secunde.
+Sortarea Merge a durat: 0.00340461 secunde.
+Sortarea Quick a durat: 0.000849014 secunde.
+
+
+Testul 96
+Numarul de elemente:36066
+Valoarea maxima a elementelor :454585524
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.01128 secunde.
+Sortarea Merge a durat: 0.00326125 secunde.
+Sortarea Quick a durat: 0.000804407 secunde.
+
+
+Testul 97
+Numarul de elemente:56024
+Valoarea maxima a elementelor :1912233562
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0234262 secunde.
+Sortarea Merge a durat: 0.00520463 secunde.
+Sortarea Quick a durat: 0.0013271 secunde.
+
+
+Testul 98
+Numarul de elemente:20007
+Valoarea maxima a elementelor :1514738494
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.00832081 secunde.
+Sortarea Merge a durat: 0.00173015 secunde.
+Sortarea Quick a durat: 0.000432989 secunde.
+
+
+Testul 99
+Numarul de elemente:73418
+Valoarea maxima a elementelor :51754495
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0203961 secunde.
+Sortarea Merge a durat: 0.007016 secunde.
+Sortarea Quick a durat: 0.00174991 secunde.
+
+
+Testul 100
+Numarul de elemente:86297
+Valoarea maxima a elementelor :626487598
+Numarul de elemente este prea mare pentru o sortare Bubble 
+Numarul de elemente este prea mare pentru o sortare Counting 
+Sortarea Radix a durat: 0.0270815 secunde.
+Sortarea Merge a durat: 0.00835215 secunde.
+Sortarea Quick a durat: 0.00214769 secunde.
+
+
